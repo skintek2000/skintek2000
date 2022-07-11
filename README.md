@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ermal Kukaj
+- 👀 I’m interested in Data engineer and Data science
+- - 🌱 I’m currently learning Data science
+- 💞️ I’m looking to collaborate with any company also as an internship.
+- 📫 How to reach me Mail: kukajermal@gmail.com
