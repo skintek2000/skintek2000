@@ -35,8 +35,8 @@ Dynamic and technically-sophisticated professional with over 10 years of experie
 **Contact Information:**
 - Phone: +447487883544
 - Email: kukajermal@gmail.com
-- LinkedIn: [LinkedIn Profile]
-- GitHub: [GitHub Profile]
+- LinkedIn: [[LinkedIn Profile](http://linkedin.com/in/ermal-kukaj-4ba755115)]
+- GitHub: [[GitHub Profile](https://github.com/skintek2000)]
 
 **Skills:**
 - Team Leadership & Coaching
